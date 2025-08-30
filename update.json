@@ -1,2 +1,8 @@
-# PIF-BY-Nads
-Play Integrity Fix PIF-BY-Nads
+{
+  "version": "v1.0",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/FBIVIP/PIF-BY-Nads/releases/download/v1.0/PlayIntegrity.v1.0.zip",
+  "changelog": "https://raw.githubusercontent.com/FBIVIP/PIF-BY-Nads/main/CHANGELOG.md",
+  "github": "https://github.com/FBIVIP/PIF-BY-Nads",
+  "support": "https://t.me/Itsmenads"
+}
